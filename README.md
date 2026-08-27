@@ -357,7 +357,7 @@ Levy: `co2e_g × $0.0005/g` → routed to Stripe Climate Frontier portfolio
 
 <div align="center">
 
-Made with obsession by **Rahul Baweja** & **Kashyap Hegde Kota**
+Made with obsession by **Soham Rajesh Choulwar**, **Asmit Dutta**, **Rahul Baweja** & **Kashyap Hegde Kota**
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KashyapHegdeKota/innovation-hack)
 
